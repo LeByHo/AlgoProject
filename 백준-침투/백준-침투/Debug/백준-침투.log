@@ -1,0 +1,8 @@
+﻿  침투.c
+c:\users\이병호\documents\visual studio 2017\projects\백준-침투\백준-침투\침투.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\이병호\documents\visual studio 2017\projects\백준-침투\백준-침투\침투.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\이병호\documents\visual studio 2017\projects\백준-침투\백준-침투\침투.c(7): warning C4101: 'bol' :참조되지 않은 지역 변수입니다.
+  백준-침투.vcxproj -> c:\users\이병호\documents\visual studio 2017\Projects\백준-침투\Debug\백준-침투.exe
+  백준-침투.vcxproj -> c:\users\이병호\documents\visual studio 2017\Projects\백준-침투\Debug\백준-침투.pdb (Partial PDB)
