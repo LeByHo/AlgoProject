@@ -1,0 +1,4 @@
+﻿  NMK.cpp
+c:\users\이병호\documents\visual studio 2017\projects\백준- nmk\백준- nmk\nmk.cpp(26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이병호\documents\visual studio 2017\projects\백준- nmk\백준- nmk\nmk.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준- NMK.vcxproj -> C:\Users\이병호\Documents\Visual Studio 2017\Projects\백준- NMK\Debug\백준- NMK.exe
