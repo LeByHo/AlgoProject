@@ -1,0 +1,6 @@
+﻿  히스토그램.cpp
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 히스토그램(1725)\백준 - 히스토그램(1725)\히스토그램.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 히스토그램(1725)\백준 - 히스토그램(1725)\히스토그램.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  백준 - 히스토그램(1725).vcxproj -> C:\Users\이병호\Documents\Visual Studio 2017\Projects\백준 - 히스토그램(1725)\Debug\백준 - 히스토그램(1725).exe
