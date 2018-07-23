@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "백준 - 초콜릿 자르기(2163)", "백준 - 초콜릿 자르기(2163)\백준 - 초콜릿 자르기(2163).vcxproj", "{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Debug|x64.ActiveCfg = Debug|x64
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Debug|x64.Build.0 = Debug|x64
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Debug|x86.ActiveCfg = Debug|Win32
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Debug|x86.Build.0 = Debug|Win32
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Release|x64.ActiveCfg = Release|x64
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Release|x64.Build.0 = Release|x64
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Release|x86.ActiveCfg = Release|Win32
+		{70C6B5CA-15D6-49A6-8D2D-FD0826CF0C88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0DD88D1-6BF9-4A71-AD01-6A4AD810913C}
+	EndGlobalSection
+EndGlobal
