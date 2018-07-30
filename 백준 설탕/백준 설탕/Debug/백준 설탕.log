@@ -1,0 +1,4 @@
+﻿  설탕.c
+c:\users\이병호\documents\github\algoproject\백준 설탕\백준 설탕\설탕.c(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  백준 설탕.vcxproj -> C:\Users\이병호\Documents\GitHub\AlgoProject\백준 설탕\Debug\백준 설탕.exe
