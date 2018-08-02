@@ -1,0 +1,8 @@
+﻿  열혈강호.cpp
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 열혈강호(11375)\백준 - 열혈강호(11375)\열혈강호.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 열혈강호(11375)\백준 - 열혈강호(11375)\열혈강호.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 열혈강호(11375)\백준 - 열혈강호(11375)\열혈강호.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  백준 - 열혈강호(11375).vcxproj -> C:\Users\이병호\Documents\Visual Studio 2017\Projects\백준 - 열혈강호(11375)\Debug\백준 - 열혈강호(11375).exe
