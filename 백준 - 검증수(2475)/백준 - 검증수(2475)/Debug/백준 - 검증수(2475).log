@@ -1,0 +1,5 @@
+﻿  검증수.cpp
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 검증수(2475)\백준 - 검증수(2475)\검증수.cpp(9): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 검증수(2475)\백준 - 검증수(2475)\검증수.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  백준 - 검증수(2475).vcxproj -> C:\Users\이병호\Documents\Visual Studio 2017\Projects\백준 - 검증수(2475)\Debug\백준 - 검증수(2475).exe
