@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "백준 - 들쥐의 탈출(2191)", "백준 - 들쥐의 탈출(2191)\백준 - 들쥐의 탈출(2191).vcxproj", "{6F2D5D35-A406-490C-82F0-E01EF1044340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Debug|x64.ActiveCfg = Debug|x64
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Debug|x64.Build.0 = Debug|x64
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Debug|x86.Build.0 = Debug|Win32
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Release|x64.ActiveCfg = Release|x64
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Release|x64.Build.0 = Release|x64
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Release|x86.ActiveCfg = Release|Win32
+		{6F2D5D35-A406-490C-82F0-E01EF1044340}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84200D3-54F0-4546-850E-11D8409D57E9}
+	EndGlobalSection
+EndGlobal
