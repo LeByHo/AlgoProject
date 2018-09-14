@@ -1,0 +1,6 @@
+﻿  다리만들기.cpp
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 다리만들기(2146)\백준 - 다리만들기(2146)\다리만들기.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\이병호\documents\visual studio 2017\projects\백준 - 다리만들기(2146)\백준 - 다리만들기(2146)\다리만들기.cpp(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  백준 - 다리만들기(2146).vcxproj -> c:\users\이병호\documents\visual studio 2017\Projects\백준 - 다리만들기(2146)\Debug\백준 - 다리만들기(2146).exe
